@@ -1,0 +1,115 @@
+body,h1{
+    margin:0;
+}
+
+#logo{
+    text-align: center;
+    justify-content: center;
+    color:#0b66ff;
+    font-size:55px;
+    padding:20px 0px;
+    background-color: #f0f2f5;
+}
+.main_div{
+    background-color: #f0f2f5;
+    padding-left: 150px;
+}
+.signup_box{
+    background-color: white;
+    width:430px;
+    border-radius: 5px;
+    margin-left: 30%;
+    border-bottom: 5;
+}
+.form_heading{
+    text-align: center;
+    padding:5px;
+    border-bottom:1px solid;
+}
+h2{
+    padding-bottom: 3px;
+}
+.input_boxes{
+    display: flex;
+    padding:15px;
+    flex-wrap: wrap;
+}
+input{
+    padding: 8px;
+    border:1px solid #CCC;
+    border-radius:5px;;
+    padding:8px;
+    width:100%;
+    font-size:15px;
+}
+.half_width{
+    justify-content: space-between;
+    margin: 12px;
+    width:44%;
+}
+.full_width{
+    margin: 15px;
+    width:100%;
+}
+.dob{
+    color: #777;
+}
+.dates{
+    padding: 10px;
+    display: flex;
+    margin-top:4px;
+    margin-left: 10px;
+    margin-right: 20px;
+    width:100%;
+    border-radius: 5px;
+}
+.gen{
+    display: flex;
+    margin-left: 15px;
+    padding-bottom:18px;
+    font-size:15px;
+    color: #777;
+}
+.gender{
+    border:1px solid #CCC;
+    border-radius: 5px;
+    width:100%;
+    padding:8px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right:15px;
+    justify-content: right;
+}
+.learn{
+    color: #777;
+    padding: 10px;
+    text-align: left;
+
+}
+a{
+    text-decoration: none;
+}
+.signup{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}
+.sign_up{
+    border:0;
+    background-color: green;
+    color:white;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 5px;
+    width:190px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.account_have{
+    padding:0px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
