@@ -1,0 +1,17 @@
+
+body{
+    font-family: "Poppins", sans-serif;
+}.banner{
+    background-image: url(/portfolio/images/imagesrcb.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px;
+}
+h1{
+    padding: 20px;
+}
+.image{
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+}
